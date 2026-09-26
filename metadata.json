@@ -1,0 +1,7 @@
+{
+  "name": "마음동행 (마음쉼터) - 70대 어르신 위로 상담 및 일자리·복지 안내",
+  "description": "기초연금과 소액 국민연금으로 생활하시는 70대 어르신의 곤궁함과 일자리 단절의 애환을 보듬는 따뜻한 말벗 상담, 실질적인 시니어 일자리와 복지 혜택 안내, 마음 힐링 라디오를 제공하는 안식처입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
